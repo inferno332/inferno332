@@ -1,4 +1,4 @@
-# Hi I'm Khoa <img src="https://cdn3.emoji.gg/emojis/7087-bigshibaspin.gif" width="64px" height="64px" alt="bigshibaspin">
+# Hi I'm Khoa, an enthusiastic developer <img src="https://cdn3.emoji.gg/emojis/7087-bigshibaspin.gif" width="64px" height="64px" alt="bigshibaspin">
 
 <a href=https://www.linkedin.com/in/cong-khoa-huynh-827977187/> <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn"> </a> <img src="https://img.shields.io/badge/Profile%20views%20-1%2C699-blue">
 
