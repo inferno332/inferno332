@@ -9,4 +9,3 @@
 <img src="https://github-readme-stats.vercel.app/api?username=inferno332&theme=radical&show_icons=true&count_private=true">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inferno332&theme=radical&layout=compact&langs_count=5">
-
