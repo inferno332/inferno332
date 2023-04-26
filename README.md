@@ -4,6 +4,10 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21qav3rftvrqw42wh5c2pz63q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=2ca928&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
+## Good place to stay
+
+<a href="https://github.com/inferno332"><img src="contributions.svg"></a>
+
 ## 📈 Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=inferno332&theme=radical&show_icons=true&count_private=true">
